@@ -1,6 +1,6 @@
 # BeepTA
 
-BeepTA is a React + TypeScript project built with Vite. It includes a customizable Autocomplete component with multi-select functionality, styled using TailwindCSS.
+This is a React + TypeScript project built with Vite. It includes a customizable Autocomplete component with multi-select functionality, styled using TailwindCSS.
 
 ## Features
 
